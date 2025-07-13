@@ -14,4 +14,4 @@
 
 #DESCRIPTION
 
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/1d8d7483-1e5e-4f0d-8c6e-babe079fe34e" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/4ba72b94-c48c-46ed-939b-111305c6ea8b" />
