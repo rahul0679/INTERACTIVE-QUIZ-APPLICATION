@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Simple Quiz App</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  
+  <div class="container">
+    <h1>🌟 Quiz Time!</h1>
+    <div id="quiz-box">
+      <div id="question">Loading...</div>
+      <div id="options"></div>
+      <button id="next-btn" disabled>Next</button>
+    </div>
+    <div id="result-box" class="hidden">
+      <h2>🎉 Quiz Completed!</h2>
+      <p id="score"></p>
+      <button onclick="restartQuiz()">Restart</button>
+    </div>
+  </div>
+  <script src="questions.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
